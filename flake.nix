@@ -39,6 +39,7 @@
           alsa-lib
           openssl
           oniguruma
+          sqlite
         ];
 
         # Cargo.lock contains four crates from the same pinned openvino-rs Git
